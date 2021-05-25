@@ -2,7 +2,12 @@
 
 #### I'm a Full-Stack JS Developer basen in Prague, Czechia.
 
-- 🏢 I'm currently working as a **Freelance Developer**
+- 💪 I'm currently working as a **Freelance Developer**
+- 🏢 Formerly at: 
+  - ⚽️ LiveScore.com - [Web](https://livescore.com/) | [GitHub](https://github.com/minelytix)
+  - 🛫 Kiwi.com - [Web](https://kiwi.com/) | [GitHub](https://github.com/kiwicom)
+  - 🌎 OAK'S LAB - [Web](https://www.oakslab.com/) | [GitHub](https://github.com/oakslab)
+  - 🇪🇺 CN Group - [Web](https://www.cngroup.dk/)
 - ⚙️ I use daily: `js`, `ts`, `react`, `nodejs`, `graphql`
 - 🎢 I deploy things to: `Vercel`, `AWS`
 - 📫 Reach me: [Telegram](https://t.me/yyakovlev) or [Twitter](https://twitter.com/yakovlevyuri)
