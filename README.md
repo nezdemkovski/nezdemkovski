@@ -1,8 +1,7 @@
 ### Hey, I'm Yuri 👻
 
-#### I'm a Full-Stack JS Developer based in Prague, Czechia.
+#### I'm a Full-Stack JS/TS Developer based in Prague, Czechia.
 
-- 💪 I'm currently working as a **Freelance Developer**
 - 🏢 Formerly at: 
   - ⚽️ LiveScore.com - [Web](https://livescore.com/) | [GitHub](https://github.com/minelytix)
   - 🛫 Kiwi.com - [Web](https://kiwi.com/) | [GitHub](https://github.com/kiwicom)
